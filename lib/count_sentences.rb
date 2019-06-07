@@ -8,12 +8,12 @@ class String
   end
 
   def question?
-    self.question?
+    
     
   end
 
   def exclamation?
-    self.exclamation?
+    
 
   end
 
