@@ -4,13 +4,16 @@ class String
 
   def sentence?
     
+    
   end
 
   def question?
-
+    self.question?
+    
   end
 
   def exclamation?
+    self.exclamation?
 
   end
 
@@ -18,3 +21,4 @@ class String
 
   end
 end
+
