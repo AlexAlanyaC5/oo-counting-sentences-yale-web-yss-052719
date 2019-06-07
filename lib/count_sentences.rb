@@ -7,7 +7,7 @@ class String
   def sentence?
     if @self.sentence?.end = 0
       puts true 
-    else 
+    else puts false 
   end
 
   def question?
