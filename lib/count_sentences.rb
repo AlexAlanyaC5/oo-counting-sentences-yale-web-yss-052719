@@ -3,9 +3,11 @@ require 'pry'
 class String
   
   attr_reader :sentence?, 
+  
+  def initialize(sentence)
 
   def sentence?
-    if @self.sentence?.end = 0
+    if @self = self.sentence?.end = 0
       puts true 
     else puts false 
   end
