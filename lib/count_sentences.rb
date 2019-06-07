@@ -5,7 +5,8 @@ class String
   attr_reader :sentence?, 
 
   def sentence?
-    if @self.sentence? = true 
+    if @self.sentence?
+      puts true 
   end
 
   def question?
